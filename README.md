@@ -29,6 +29,6 @@ How to use ShinyEarthquakes on ShinyApps:
 4. Update View
 
 
-Here is the link: [ShinyEarthquakes](http://jackaljack.github.io)
+Here is the link for the Slidify presentation: [ShinyEarthquakes](http://jackaljack.github.io/ShinyEarthquakes)
 
-Note:You will need an internet connection to download the USGS feed (it's about 1.7 MB).
+Note: you will need an internet connection to download the USGS feed (it's about 1.7 MB).
