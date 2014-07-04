@@ -8,9 +8,6 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow
 widgets     : [bootstrap, quiz, shiny, interactive, mathjax]
 mode        : selfcontained # {standalone, draft}
-github:
-  user: jackaljack
-  repo: jackaljack.github.io # publish on GitHub pages
 knit        : slidify::knit2slides
 ext_widgets : {rCharts: [libraries/nvd3]}
 --- &radio
@@ -80,6 +77,8 @@ eq.geometry <- lapply(document$features,function(xl) xl$geometry)
 
 ## Here is ShinyEarthquakes!
 
-![Screenshot of the App](https://raw.githubusercontent.com/jackaljack/jackaljack.github.io/master/Screen.PNG)
+![Screenshot of the App](https://raw.githubusercontent.com/jackaljack/ShinyEarthquakes/gh-pages/Screen.PNG)
 
 What are you waiting for? [**Try me on ShinyApps!**](https://jackaljack.shinyapps.io/ShinyEarthquakes/)
+
+*Code on* [*GitHub.*](https://github.com/jackaljack/ShinyEarthquakes)
